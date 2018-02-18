@@ -1,5 +1,4 @@
-![PDFtoWhateverC](PDFtoWhateverC/SplitMaker.ico)
-# PDFtoWhateverC   
+# PDFtoWhateverC![PDFtoWhateverC](PDFtoWhateverC/SplitMaker.ico)
 
 A front end program that splits a list of PDF files into individual image files that the user would be selecting for some purpose. Each PDF page is processed into the image type as desired.
 
@@ -16,15 +15,15 @@ This program is originally created to split manufacturer's product cut sheets in
 - Press the Start Process button.
 - The file progress status is updated as the PDF files are processed.
 
-![](DocImages/PDFSplitsMakerInProcess.PNG)
+![PDFSplitsMakerInPtrogress](DocImages/PDFSplitsMakerInProcess.PNG)
 
 - The process is accomplished with a background thread. The status indicates when the process is complete.
 
-![](DocImages/PDFSplitsMakerDone.PNG)
+![PDFSplitsMakerDone](DocImages/PDFSplitsMakerDone.PNG)
 
 - When the **Splits Viewer** check box is checked then the image results for any PDF file that has been processed are displayed in a separate splits images viewer.
 
-![  ](DocImages/SplitsViewer.PNG)
+![SplitsViewer](DocImages/SplitsViewer.PNG)
 
 - The splits images viewer is intended for one to review the output and delete the images not needed. Pressing delete when any one or more images selected in the viewer allows one to delete the unwanted images.
 
