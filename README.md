@@ -1,4 +1,4 @@
-# PDFtoWhateverC![PDFtoWhateverC](PDFtoWhateverC/SplitMaker.ico)
+# PDFtoWhateverC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![PDFtoWhateverC](PDFtoWhateverC/SplitMaker.ico)
 
 A front end program that splits a list of PDF files into individual image files that the user would be selecting for some purpose. Each PDF page is processed into the image type as desired.
 
